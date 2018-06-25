@@ -2890,6 +2890,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"ANTEReserve"
+		{
+			"1"
+			{
+				"name"		"ANTENNA"
+				"tall"		"30"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		
 		//
 		//////////////////// ECON FONTS //////////////////////////////
