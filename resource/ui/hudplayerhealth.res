@@ -95,7 +95,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"UniHealth"
-		"fgcolor"		"0 0 0 255"
+		"fgcolor"		"0 0 139 255"		//Custom Dark-Blue
 	}
 	"PlayerStatusMaxHealthValue"
 	{
